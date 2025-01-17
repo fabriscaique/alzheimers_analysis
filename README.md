@@ -3,6 +3,7 @@
 This repository contains an analysis of a dataset related to Alzheimer's disease, performed as part of the Data Analytics course at Ironhack Berlin. The goal is to explore the relationships between various clinical and brain data points and their correlation with cognitive decline.
 
 ## Dataset
+Source: https://www.kaggle.com/datasets/brsdincer/alzheimer-features
 The dataset includes 373 entries with 10 features:
 
 - **Group**: Dementia status (Normal, Demented, Converted)
